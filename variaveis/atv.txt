@@ -1,0 +1,98 @@
+CÓDIGO 1
+* let idade = 27;: Define a idade a ser avaliada.
+* Categoria (if, else if, else): Verifica em qual faixa etária a pessoa se encontra.
+* console.log (&quot;Categoria:&quot; +
+categoria);: Exibe a categoria determinada.
+* if (idade &lt; 12): Caso a idade seja menor que 12, adiciona 5 (simula um bônus).
+* if (idade &gt;= 12 &amp;&amp; idade &lt;= 18): Exibe a idade final se estiver entre 12 e 18.
+let idade = 27;
+let categoria;
+
+if (idade < 12) {
+  idade += 5;
+  categoria = "Criança (com bônus)";
+} else if (idade >= 12 && idade <= 18) {
+  categoria = "Adolescente";
+} else {
+  categoria = "Adulto";
+}
+
+console.log("Categoria: " + categoria);
+CÓDIGO 2
+let idade = 25;
+Define a idade da pessoa que será usada para as verificações.
+* if (idade >= 18 && idade < 70)
+O voto é obrigatório para maiores de 18 e menores de 70.
+* else if ((idade >= 16 && idade ‹
+18) 11 idade >= 70)
+O voto é facultativo para jovens de 16 a 17 anos e idosos com 70 anos ou mais.
+* else
+Pessoas com menos de 16 anos não votam.
+CÓDIGO 3
+let numero = -5;: Define a variável inicial com o valor -5.
+* if/else if/else: Verifica se o número é positivo, negativo ou zero e imprime o resultado.
+* numero = 10;: Altera o valor da variável para 10 para testar outro cenário.
+* O segundo if/else if/else: Repete a verificação com o novo valor.
+let idade = 25;
+
+if (idade >= 18 && idade < 70) {
+  console.log("Voto obrigatório");
+} else if ((idade >= 16 && idade < 18) || idade >= 70) {
+  console.log("Voto facultativo");
+} else {
+  console.log("Não vota");
+}
+CÓDIGO 4
+•	let combustivel = "Gasolina";
+-> Define qual tipo de combustível será testado. Você pode trocar para "Álcool", "Diesel", ou outro valor.
+	•	if (combustivel === "Gasolina")
+-> Verifica se o valor é "Gasolina" e imprime a mensagem correspondente.
+	•	else if (combustivel === "Álcool")
+-> Verifica se é "Álcool".
+	•	else if (combustivel === "Diesel")
+-> Verifica se é "Diesel".
+	•	else
+-> Executa se nenhuma das opções acima for verdadeira.
+let numero = -5;
+
+if (numero > 0) {
+  console.log("Número positivo");
+} else if (numero < 0) {
+  console.log("Número negativo");
+} else {
+  console.log("Número zero");
+}
+
+numero = 10;
+
+if (numero > 0) {
+  console.log("Número positivo");
+} else if (numero < 0) {
+  console.log("Número negativo");
+} else {
+  console.log("Número zero");
+}
+CÓDIGO 5
+•	let velocidade = 75;
+-> Define a velocidade atual. Pode ser alterada para testar diferentes comportamentos.
+	•	if (velocidade <= 60)
+-> Imprime “Multado” (exemplo de infração por velocidade baixa).
+	•	else if (velocidade <= 80)
+-> Imprime “Dentro do limite” para velocidades normais.
+	•	else
+-> Velocidade acima de 80, imprime “Atenção”.
+let velocidade = 75;
+
+if (velocidade <= 60) {
+  console.log("Multado");
+} else if (velocidade <= 80) {
+  console.log("Dentro do limite");
+} else {
+  console.log("Atenção");
+}
+
+
+
+
+
+
