@@ -1,0 +1,139 @@
+Situações-Problema sobre o Windows
+ 1-Abrir o Explorador de Arquivos 1. Pressione as teclas “Windows + E” ao mesmo
+tempo, ou então clique no ícone do “Explorador de Arquivos” na barra de tarefas
+(ícone de uma pasta).
+2-Navegar até a Área de Trabalho 1. No painel à esquerda, clique em “Área de
+Trabalho” para visualizar todos os arquivos espalhados pela área de trabalho.
+3-Selecionar os Arquivos 1. “Para selecionar vários arquivos ao mesmo tempo”: -
+Clique e arraste o mouse sobre os arquivos que deseja selecionar. - Ou, segure a tecla
+“Ctrl” e clique em cada arquivo individualmente para selecionar múltiplos arquivos.
+ 2- Verificar se a impressora está conectada
+2- No menu de &quot;Impressoras e scanners”, “Gerenciar”.
+3- Em seguida, clique em &quot;Propriedades da impressora&quot; e depois
+“Avançado&quot;
+Se necessário, Maria pode atualizar o driver clicando com o botão direito
+sobre a impressora em &quot;Impressoras e scanners&quot; e selecionando
+“Atualizar driver”.
+4- Ao tentar imprimir o documento no Word, Maria deve clicar em
+&quot;Arquivo&quot; &gt; &quot;Imprimir”.
+ 3- Abrir o Gerenciador de Tarefas, - Pressione “Ctrl + Shift + Esc” no
+teclado. Isso abrirá o Gerenciador de Tarefas diretamente. –
+“Alternativa”: Você também pode pressionar “Ctrl + Alt + De” e, no
+menu que aparecer, escolha Gerenciador de Tarefas.
+ 4-
+Abrir o Windows Update: Clique no ícone de pesquisa na barra de tarefas e
+digite &quot;Configurações” Selecione &quot;Configurações&quot; e depois clique em
+&quot;Atualização e Segurança&quot;. Na seção do Windows Update, clique em &quot;Verificar
+atualizações”. Instalar as Atualizações: O Windows deverá baixar e instalar as
+atualizações automaticamente. Se necessário, aguarde o download e a
+instalação. Reiniciar o Computador: Caso o Windows solicite, reinicie o
+computador para concluir a instalação das atualizações.
+ 5- Não abra imediatamente o arquivo, verifique o arquivo com o
+Windows Defender:
+Clique com o botão direito no arquivo e selecione &quot;Analisar com o
+Windows Defender&quot;
+Verifique o histórico de ameaças. Acesse Segurança do Windows.
+Verifique o arquivo no VirusTotal:
+Envie o arquivo para www.
+Verifique a origem do arquivo:
+-Se de que o arquivo tenha sido baixado de uma fonte
+
+Atualizar o antivírus e o sistema operacional: Mantenh
+Excluir o arquivo caso haja dúvidas: Se houver alguma.
+ 6- Para liberar espaço no disco rígido sem abrir arquivos importantes,
+Carla pode seguir estas dicas: Usar a ferramenta de &quot;Limpeza de
+Disco&quot; No Windows, ela pode buscar por &quot;Limpeza de Disco&quot; no menu
+Iniciar, selecionar a unidade que está cheia e deixar que o Windows
+analise e sugira arquivos para limpeza, como arquivos temporários,
+cache do sistema, arquivos de logs, entre outros.
+ 7- Verificar o cabo de rede ou a conexão Wi-Fi. Se você estiver
+usando uma conexão com fio (Ethernet), Rafael deve verificar se o
+cabo está bem conectado tanto no computador quanto no roteador. -
+Se ele estiver usando Wi-Fi, ele poderá garantir que o computador
+esteja conectado à rede correta e verificar se a senha está correta.
+ 8 - O recurso do Windows que permite criar e gerenciar usuários
+diferentes no mesmo computador é o “Gerenciamento de Contas de
+Usuário”. No Windows, isso pode ser feito por meio do “Painel de
+Controle” ou das “Configurações”. Aqui estão os passos para criar e
+gerenciar contas de usuário no Windows: ### Passos para criar e
+gerenciar contas de usuário no Windows: “Acessar as Configurações
+de Contas de Usuário” “No Windows 10/11”: Vá até “Configurações &gt;
+Contas &gt; Família e outros usuários” (ou Outros usuários). – “No
+Windows 7” Vá ao Painel de Controle &gt; Contas de Usuário.
+ 9- Passo 1: Abra a Lixeira na área de trabalho. Passo 2: Procure pela
+pasta de arquivo. Se a pasta estiver lá, clique com o botão direito nela
+e selecione “Restaurar”. - Isso irá restaurar a pasta para o local original
+de onde foi o arquivo. ### 2. “Usar o Histórico de Arquivos” (se
+ativado) - Passo 1-Abra “Configurações &gt; Atualização e Segurança &gt;
+Backup”. - Passo 2: Clique em “Restaurar arquivos de uma cópia de
+segurança”. Passo 3: Navegue até o local onde a pasta estava e
+procure pela versão anterior. Encontre, selecione e restaure.
+10 - Abrir as Configurações:
+Clique no botão Iniciar (ícone do Configurações)
+Ir para &quot;Aplicativos&quot;:
+Dentro das configurações, clique em Aplicativos.
+Alterar o navegador padrão:
+No menu lateral esquerdo, clique em Aplicativos padrões.
+
+Em &quot;Navegador da Web&quot;, clique sobre o navegador atualmente
+configurado (geralmente Microsoft Edge). Na lista que aparecer,
+selecione o “novo navegador que Carlos Google Chrome, “ Mozilla
+Firefox, etc.
+Confirmar a alteração:
+Após selecionar o navegador
+11- Beatriz pode ajustar a resolução da tela para melhorar a visualização
+seguindo estes passos:
+1. Abrir as Configurações de Exibição:
+o No Windows 10 ou Windows 11, clique com o botão direito na
+área de trabalho e selecione Configurações de Exibição.
+
+2. Ajustar a Resolução da Tela:
+o Na seção Escala e Layout, procure por Resolução da tela.
+o Clique na lista suspensa e escolha a resolução recomendada,
+geralmente marcada como (recomendado).
+
+3. Verificar a Escala:
+o Ainda em Escala e Layout, ajuste a opção Escala. Se os ícones
+estiverem muito grandes, defina a escala para 100% ou o valor
+recomendado.
+4. Confirmar as Alterações:
+o O sistema pode pedir para confirmar as mudanças. Clique em
+Manter alterações para aplicar a nova configuração.
+
+ 12 - Abrir configurações, vá em acessibilidades e acesse “aumentar
+texto” e aumente conforme o necessário.
+ 13- Clique no menu Iniciar e pesquise por &quot;Restauração do Sistema&quot;
+ou &quot;Criar um ponto de restauração&quot;
+- Selecione Criar um ponto de restauração nos resultados da pesquisa. Isso
+abrirá a janela Propriedades do Sistema.
+- Na aba Proteção do Sistema, clique no botão Restauração do Sistema.
+- Uma janela será aberta. Clique em Avançar.
+-Clique em Concluir para iniciar a restauração. O computador será reiniciado
+e o processo será iniciado.
+
+14 - Para criar um atalho do Microsoft Word e acessá-lo mais rapidamente,
+Sofia pode seguir esses passos:
+1. Pesquisar Word no menu Iniciar.
+2. Clique com o botão direito no Microsoft Word nos resultados e
+selecione Abrir local do arquivo.
+
+3. Clique com o botão direito sobre o ícone do Word na pasta e escolha
+enviar para &gt; Área de Trabalho (criar atalho).
+4. Alternativa: Clique com o botão direito no ícone do Word e selecione
+Fixar na barra de tarefas ou Fixar no Iniciar.
+Isso permitirá que Sofia abra o Word rapidamente, sem precisar procurá-lo toda
+vez.
+15 - Para acelerar o início do computador, Eduardo pode desativar programas
+desnecessários da inicialização:
+1. Abra o Gerenciador de Tarefas (clicando com o botão direito na barra
+de tarefas e escolhendo &quot;Gerenciador de Tarefas&quot;).
+2. Vá para a guia inicializar.
+3. Desative os programas que não são necessários (clicando com o botão
+direito e selecionando Desativar).
+4. Feche o Gerenciador de Tarefas.
+Isso ajudará a reduzir o tempo de inicialização do sistema.
+
+
+
+
+
